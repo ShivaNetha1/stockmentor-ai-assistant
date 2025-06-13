@@ -8,7 +8,7 @@
 
 - 📊 Real-time stock analysis (technical indicators, charts)
 - 📊 Teaches technical analysis: support/resistance, RSI, MACD, candlestick patterns.
-- 📚 Fundamental insights (P/E ratio, earnings, news)
+- 📚 Fundamental insights (P/E ratio, earnings, ROE , ROCE , news)
 - 🤖 Built on Meta’s LLaMA 3.3 70B Instruct
 - 💬 Friendly & educational tone
 
